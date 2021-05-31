@@ -1,5 +1,5 @@
 applications:
-- name: ygbety-iot
+- name: umh35j-iot
   buildpacks:
   - staticfile_buildpack
   memory: 30M
